@@ -1,0 +1,44 @@
+table,th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th,td{
+  padding: 5px;
+}
+ul
+{
+  list-style: square;
+}
+div{
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+header{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  text-transform: uppercase;
+  font-style: italic;
+}
+nav{
+  line-height: 30px;
+  background-color: #eeeeee;
+  height: 300px;
+  width: 100px;
+  float: left;
+  padding: 5px;
+}
+section{
+  width: 350px;
+  float: left;
+  padding: 10px;
+}
+footer{
+  background-color: black;
+  color: white;
+  clear: both;
+  text-align: center;
+  padding: 5px;
+}

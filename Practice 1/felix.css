@@ -1,0 +1,22 @@
+
+ul.a,li.a,p.a{
+  display: inline;
+  text-align: right;
+  border: saddlebrown solid 50px;
+
+
+}
+
+
+
+
+body{
+  background-color: #4caf50;
+
+
+}
+h1{
+  color: red;
+  text-align: center;
+
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71f6eedd-8f75-472c-8f3b-b65c5a61f7a7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SgRJXzxSGmmJO8J2SegQBHlCgb" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.felix.html">
+    <configuration name="Login Form.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Practice 1/Login Form.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="felix.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Practice 1/felix.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Login Form.html" />
+        <item itemvalue="JavaScript Debug.felix.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f6eedd-8f75-472c-8f3b-b65c5a61f7a7" name="Default Changelist" comment="" />
+      <created>1571983180642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571983180642</updated>
+      <workItem from="1571983184932" duration="114000" />
+      <workItem from="1572031993695" duration="23000" />
+      <workItem from="1572277815184" duration="4523000" />
+      <workItem from="1572325885007" duration="2257000" />
+      <workItem from="1572335149252" duration="2833000" />
+      <workItem from="1572499452789" duration="3627000" />
+      <workItem from="1572507162290" duration="3531000" />
+      <workItem from="1572585274604" duration="62000" />
+      <workItem from="1572585414598" duration="3405000" />
+      <workItem from="1572646964700" duration="5354000" />
+      <workItem from="1572676820445" duration="2918000" />
+      <workItem from="1573024110599" duration="1196000" />
+      <workItem from="1573027021802" duration="41000" />
+      <workItem from="1573192136062" duration="471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
